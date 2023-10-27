@@ -1,4 +1,4 @@
-### 👋🏿 Hi there everyone! My name is Kay Richardson. 😆  Pronouns: She/Her/They 🌱 I’m currently learning all of the basics of front-end web development. HTML, CSS, & JavaScript. Happy coding!
+### 👋🏿 Hi there everyone! My name is Kay Richardson. 😆 🌱 I’m currently learning all of the basics of front-end web development. HTML, CSS, & JavaScript. Happy coding!
 
 <!--
 **KayRich-cmd/KayRich-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
